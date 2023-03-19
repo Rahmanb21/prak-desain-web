@@ -1,19 +1,7 @@
-.container-indepent {
+.row-cols-xl-4 {
 }
 
-section {
-  width: 85%;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.card {
-}
-
-.date-chat {
-}
-
-.info-date-chat {
-  gap: 64px;
+a img {
+  width: 100%;
 }
 
